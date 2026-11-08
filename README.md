@@ -6,45 +6,41 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 Working on microservices, AI assistants, and Web3 projects.
-- 🌱 Learning and experimenting with Java, Python, JavaScript, and low-level Assembly programming.
-- 💬 Ask me about **Java**, **Python**, **JavaScript**, **Microservices**, or **NFTs**.
+### About me
+
+I am a software developer passionate about building scalable microservices, AI assistants, and Web3 technologies. I love exploring Java, Python, JavaScript, and Assembly programming while constantly learning new tools and frameworks.
+
+Feel free to reach out if you want to chat about Java, Python, JavaScript, microservices, or NFTs—I am always happy to share ideas, learn together, and collaborate on interesting projects!
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & tools
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,assembly,git,github,docker,vscode" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=java,py,js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,aws,git,github,vscode,html,css" />
   </a>
 </p>
 
 ---
 
-### 📁 Featured Projects
-- 🔮 **[constellations](https://github.com/MonishShah2428/constellations)** - Interactive constellation & astronomy visualizer.
-- 👤 **[ipdFaceRecog](https://github.com/MonishShah2428/ipdFaceRecog)** - Facial recognition & identification system.
-- 🎨 **[NFT-uploader](https://github.com/MonishShah2428/NFT-uploader)** - Seamless NFT minting & uploading utility.
-- 🕷️ **[webCrawler](https://github.com/MonishShah2428/webCrawler)** - Scalable web crawler for automated data extraction.
-- 🧩 **[zkSudoku](https://github.com/MonishShah2428/zkSudoku)** - Zero-Knowledge proof implementation for Sudoku verification.
-- 🛍️ **[retails-microservices](https://github.com/MonishShah2428/retails-microservices)** - Robust retail microservices architecture.
-- 🎙️ **[interview-assistant](https://github.com/MonishShah2428/interview-assistant)** - AI-powered technical interview preparation assistant.
+### Featured projects
+
+Here are a few projects I've enjoyed building recently:
+
+- **[constellations](https://github.com/MonishShah2428/constellations)** - An interactive visualizer for exploring constellations and astronomy in a browser.
+- **[ipdFaceRecog](https://github.com/MonishShah2428/ipdFaceRecog)** - A facial recognition system designed for clear identification and verification.
+- **[NFT-uploader](https://github.com/MonishShah2428/NFT-uploader)** - A streamlined utility for minting and uploading digital assets seamlessly.
+- **[webCrawler](https://github.com/MonishShah2428/webCrawler)** - A scalable web crawler built for efficient, automated data extraction.
+- **[zkSudoku](https://github.com/MonishShah2428/zkSudoku)** - A Zero-Knowledge proof implementation for privacy-preserving Sudoku verification.
+- **[retails-microservices](https://github.com/MonishShah2428/retails-microservices)** - A modular, resilient microservices architecture built for retail systems.
+- **[interview-assistant](https://github.com/MonishShah2428/interview-assistant)** - An AI companion designed to help prepare for technical interviews.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MonishShah2428&show_icons=true&theme=tokyonight&count_private=true" alt="Monish's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonishShah2428&theme=tokyonight" alt="Monish's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonishShah2428&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
 </p>
